@@ -1,6 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
+    <_BundleResourceWithLogicalName Include="obj/Debug/net10.0-macos/osx-arm64/ibtool/Main.storyboardc/sec-dn-kyH-view-dU7-BN-2PM.nib">
+      <Optimize>false</Optimize>
+      <InterfaceDefinition>Main.storyboard</InterfaceDefinition>
+      <LogicalName>Main.storyboardc/sec-dn-kyH-view-dU7-BN-2PM.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/net10.0-macos/osx-arm64/ibtool/Main.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
     <_BundleResourceWithLogicalName Include="obj/Debug/net10.0-macos/osx-arm64/ibtool/Main.storyboardc/MainMenu.nib">
       <Optimize>false</Optimize>
       <InterfaceDefinition>Main.storyboard</InterfaceDefinition>
@@ -17,12 +23,6 @@
       <Optimize>false</Optimize>
       <InterfaceDefinition>Main.storyboard</InterfaceDefinition>
       <LogicalName>Main.storyboardc/Info.plist</LogicalName>
-      <OriginalItemSpec>obj/Debug/net10.0-macos/osx-arm64/ibtool/Main.storyboardc</OriginalItemSpec>
-    </_BundleResourceWithLogicalName>
-    <_BundleResourceWithLogicalName Include="obj/Debug/net10.0-macos/osx-arm64/ibtool/Main.storyboardc/B3g-HT-c0w-view-q1M-lp-dsD.nib">
-      <Optimize>false</Optimize>
-      <InterfaceDefinition>Main.storyboard</InterfaceDefinition>
-      <LogicalName>Main.storyboardc/B3g-HT-c0w-view-q1M-lp-dsD.nib</LogicalName>
       <OriginalItemSpec>obj/Debug/net10.0-macos/osx-arm64/ibtool/Main.storyboardc</OriginalItemSpec>
     </_BundleResourceWithLogicalName>
   </ItemGroup>

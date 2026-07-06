@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("liaison_donnees")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e4590d4c982169eb5d118f52ee502e1f6510f85")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+227040362f4161f642e2a1c083617bb73969ce11")]
 [assembly: System.Reflection.AssemblyProductAttribute("liaison_donnees")]
 [assembly: System.Reflection.AssemblyTitleAttribute("liaison_donnees")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
