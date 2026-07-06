@@ -7,6 +7,22 @@
 	<key>com.apple.ibtool.document.notices</key>
 	<dict/>
 	<key>com.apple.ibtool.document.warnings</key>
-	<dict/>
+	<dict>
+		<key>XfG-lQ-9wD</key>
+		<array>
+			<dict>
+				<key>affected-objects</key>
+				<array>
+					<string>XfG-lQ-9wD</string>
+				</array>
+				<key>message</key>
+				<string>“Simple View Controller“ is unreachable because it has no entry points, and no identifier for runtime access via -[NSStoryboard instantiateControllerWithIdentifier:]</string>
+				<key>type</key>
+				<string>IBIssueTypeUnsupportedConfiguration</string>
+				<key>type-value</key>
+				<integer>9</integer>
+			</dict>
+		</array>
+	</dict>
 </dict>
 </plist>

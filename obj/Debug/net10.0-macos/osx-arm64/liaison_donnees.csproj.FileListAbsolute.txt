@@ -214,6 +214,7 @@
 /Users/marie/RiderProjects/liaison_donnees/liaison_donnees/obj/Debug/net10.0-macos/osx-arm64/liaison_donnees.AssemblyInfoInputs.cache
 /Users/marie/RiderProjects/liaison_donnees/liaison_donnees/obj/Debug/net10.0-macos/osx-arm64/liaison_donnees.AssemblyInfo.cs
 /Users/marie/RiderProjects/liaison_donnees/liaison_donnees/obj/Debug/net10.0-macos/osx-arm64/liaison_donnees.csproj.CoreCompileInputs.cache
+/Users/marie/RiderProjects/liaison_donnees/liaison_donnees/obj/Debug/net10.0-macos/osx-arm64/liaison_donnees.sourcelink.json
 /Users/marie/RiderProjects/liaison_donnees/liaison_donnees/obj/Debug/net10.0-macos/osx-arm64/liaison_.493C095C.Up2Date
 /Users/marie/RiderProjects/liaison_donnees/liaison_donnees/obj/Debug/net10.0-macos/osx-arm64/liaison_donnees.dll
 /Users/marie/RiderProjects/liaison_donnees/liaison_donnees/obj/Debug/net10.0-macos/osx-arm64/refint/liaison_donnees.dll

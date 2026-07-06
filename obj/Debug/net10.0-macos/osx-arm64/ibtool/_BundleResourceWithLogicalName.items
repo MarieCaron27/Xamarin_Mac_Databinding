@@ -7,12 +7,6 @@
       <LogicalName>Main.storyboardc/MainMenu.nib</LogicalName>
       <OriginalItemSpec>obj/Debug/net10.0-macos/osx-arm64/ibtool/Main.storyboardc</OriginalItemSpec>
     </_BundleResourceWithLogicalName>
-    <_BundleResourceWithLogicalName Include="obj/Debug/net10.0-macos/osx-arm64/ibtool/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib">
-      <Optimize>false</Optimize>
-      <InterfaceDefinition>Main.storyboard</InterfaceDefinition>
-      <LogicalName>Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib</LogicalName>
-      <OriginalItemSpec>obj/Debug/net10.0-macos/osx-arm64/ibtool/Main.storyboardc</OriginalItemSpec>
-    </_BundleResourceWithLogicalName>
     <_BundleResourceWithLogicalName Include="obj/Debug/net10.0-macos/osx-arm64/ibtool/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib">
       <Optimize>false</Optimize>
       <InterfaceDefinition>Main.storyboard</InterfaceDefinition>
@@ -23,6 +17,12 @@
       <Optimize>false</Optimize>
       <InterfaceDefinition>Main.storyboard</InterfaceDefinition>
       <LogicalName>Main.storyboardc/Info.plist</LogicalName>
+      <OriginalItemSpec>obj/Debug/net10.0-macos/osx-arm64/ibtool/Main.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/net10.0-macos/osx-arm64/ibtool/Main.storyboardc/B3g-HT-c0w-view-q1M-lp-dsD.nib">
+      <Optimize>false</Optimize>
+      <InterfaceDefinition>Main.storyboard</InterfaceDefinition>
+      <LogicalName>Main.storyboardc/B3g-HT-c0w-view-q1M-lp-dsD.nib</LogicalName>
       <OriginalItemSpec>obj/Debug/net10.0-macos/osx-arm64/ibtool/Main.storyboardc</OriginalItemSpec>
     </_BundleResourceWithLogicalName>
   </ItemGroup>
